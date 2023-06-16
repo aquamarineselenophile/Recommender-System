@@ -1,2 +1,2 @@
 # Recommender-System
-A movie recommendation system using the SVD algorithm 
+A movie recommendation system using the SVD machine learning algorithm 
